@@ -110,8 +110,8 @@
   <section id="contato">
     <h2>Contato e Parcerias</h2>
     <p>Quer usar o NWIS na sua empresa? Quer ser parceiro ou investidor?</p>
-    <p><strong>Email:</strong> contato@xoverstudio.com</p>
-    <p><strong>Instagram:</strong> @xover.studio</p>
+    <p><strong>Email:</strong> dsmarrito743@gmail.com</p>
+    <p><strong>Instagram:</strong> em breve</p>
   </section>
 
   <footer>
